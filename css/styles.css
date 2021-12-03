@@ -89,6 +89,56 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
+.title {
+
+text-align: center;
+
+}
+
+
+.blocktext  {
+  text-align: center;
+ padding-left: 2em;
+ padding-right: 2em;
+}
+
+
+.blueblock {
+
+background-color: #003865;
+color: white;
+text-align: center;
+list-style-position: inside;
+line-height: 300%;
+padding-top: 3em;
+padding-bottom: 3em;
+}
+
+
+.pricing {
+
+  text-align: center;
+  list-style-position: inside;
+  line-height: 300%;
+  padding-top: 3em;
+  padding-bottom: 3em;
+
+
+}
+
+
+.price {
+
+  color: green
+}
+
+.strikethrough {
+  color: red;
+  text-decoration: line-through;
+}
+
+
 hr {
   margin: 1rem 0;
   color: inherit;
