@@ -183,13 +183,16 @@ padding-bottom: 1rem;
 
 input {
   width: 20rem;
-  
+  border: 1px solid rgba(0,0,0,0.2);
+  height: 2em;
 }
 
 .form-submit-button {
 
   text-transform: uppercase;
   width: 15rem;
+  border-width: 0px;
+  background-color: lightgrey;
 
 }
 
@@ -227,6 +230,15 @@ input {
 .linkedin {
 
 padding-right: 0.2em;
+}
+
+.formlabel {
+
+
+  text-align: left;
+  text-transform: uppercase;
+  color: grey;
+  padding-bottom: 0.5em;
 }
 
 
