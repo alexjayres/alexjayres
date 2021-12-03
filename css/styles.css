@@ -139,6 +139,46 @@ padding-bottom: 3em;
 }
 
 
+.emailform {
+
+
+
+
+}
+
+
+
+/* Create two equal columns that floats next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+ 
+}
+
+/* Clear floats after the columns */
+.row {
+  display: flex;
+  padding-left: 2em;
+ padding-right: 2em;
+
+ box-align: center;
+
+}
+
+
+input {
+  width: 20rem;
+  
+}
+
+.form-submit-button {
+
+  text-transform: uppercase;
+
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
