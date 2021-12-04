@@ -142,8 +142,13 @@ padding-bottom: 1em;
 }
 
 .strikethrough {
-  color: red;
+  color: darkred;
   text-decoration: line-through;
+}
+
+.red {
+  color: darkred;
+  
 }
 
 
